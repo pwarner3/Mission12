@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { data } from './teams'
+import { data } from './teams'//File with data
 
 //Component for heading and description
 function Welcome() {
